@@ -2,6 +2,9 @@
 
 PlantMDCS (Plant Multi-Omics Database Construction Suite) is a code-free, modular graphical toolkit designed for rapid construction of plant multi-omics databases, featuring extremely low technical barriers.
 
+## Open Source
+The front-end code of PlantMDCS client has been open sourced, and users can customize their designs in the PlantMDCS \ app \ templates \ web directory after installation.
+
 ## Core Features
 - 🖥️ **Standalone Windows Executable**: Download & use directly, no dev environment setup needed
 - 🚀 **Full-Process Code-Free Operation**: Build plant multi-omics databases end-to-end with zero coding
@@ -18,3 +21,4 @@ The Windows version of PlantMDCS 1.0 has been officially released and can be dow
 - Chinese Operation Video: [PlantMDCS-operation-Chinese.mp4](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
 - English Operation Video: [PlantMDCS-operation-English.mp4](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
 - User Manual: [User manual.pdf](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
+- PlantMDCS_Preprocessing_Tools: [PlantMDCS_Preprocessing_Tools](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
