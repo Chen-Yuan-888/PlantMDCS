@@ -10,7 +10,7 @@ PlantMDCS (Plant Multi-Omics Database Construction Suite) is a code-free, modula
 
 ## Download Link
 The Windows version of PlantMDCS 1.0 has been officially released and can be downloaded from the link below:
-- Main Program: [PlantMDCS.exe](链接地址)
+- Main Program: [PlantMDCS.exe]([链接地址](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS))
 - Example Files: [Example.file.zip](链接地址)
 - Transcriptome BAM Example File: [Example.file_transcriptome_bam.zip](链接地址)
 - Chinese Introduction Video: [PlantMDCS-Introduction-Chinese.mp4](链接地址)
