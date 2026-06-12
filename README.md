@@ -11,10 +11,6 @@ The front-end code of PlantMDCS user-end has been open sourced, and users can cu
 - 🧬 **Multi-Omics Data Compatibility**: Adaptable to major plant multi-omics data types
 - 📊 **Integrated Research Analysis**: Incorporates comprehensive functional modules to meet the needs of plant research and analysis
 
-## Online Demo Case
-Access URL: http://wscc.uunat.com:5088/
-<img width="1376" height="1341" alt="image" src="https://github.com/user-attachments/assets/c7af4384-ad6b-4053-a964-a73e1dde6313" />
-
 ## Download Link
 The Windows version of PlantMDCS 1.0 has been officially released and can be downloaded from the link below:
 - Main Program: [PlantMDCS.exe](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
@@ -26,3 +22,17 @@ The Windows version of PlantMDCS 1.0 has been officially released and can be dow
 - English Operation Video: [PlantMDCS-operation-English.mp4](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
 - User Manual: [User manual.pdf](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
 - PlantMDCS_Preprocessing_Tools: [PlantMDCS_Preprocessing_Tools](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
+  
+## Practical Application Case
+### PlantMDCS Self-Built Online Multi-Omics Platform Demo
+The screenshot below shows a fully functional plant multi-omics website built entirely with PlantMDCS and its auxiliary preprocessing toolkit. It serves as a real-world demonstration of the toolkit’s full workflow, covering multi-omics data integration and built-in analytical tools.
+- Resource statistics of the demo database:
+  11 Genomes, 11745 Transcriptomes, 370 Metabolomes, 965 Phenotypic samples, 1448 Resequencing samples, 782460 Genes, 68818 Transcription factors
+- Embedded analysis & query modules:
+  DE analysis, Expression visualization, Blast, Synteny comparison, ID conversion, Multi-dimensional search, WGCNA co-expression network, IGV Genome Browser, Phylogenetic Tree, Functional Enrichment, PCA, GWS analysis
+- Access URL: http://wscc.uunat.com:5088/
+
+Click the homepage preview image to visit the demo platform:
+<a href="http://wscc.uunat.com:5088/" target="_blank">
+  <img width="1376" height="1341" alt="PlantMDCS self-built plant multi-omics database homepage" src="https://github.com/user-attachments/assets/c7af4384-ad6b-4053-a964-a73e1dde6313" />
+</a>
