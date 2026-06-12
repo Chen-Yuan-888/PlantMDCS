@@ -11,6 +11,10 @@ The front-end code of PlantMDCS user-end has been open sourced, and users can cu
 - 🧬 **Multi-Omics Data Compatibility**: Adaptable to major plant multi-omics data types
 - 📊 **Integrated Research Analysis**: Incorporates comprehensive functional modules to meet the needs of plant research and analysis
 
+## Online Demo Case
+Access URL: http://wscc.uunat.com:5088/
+<img width="1376" height="1341" alt="image" src="https://github.com/user-attachments/assets/c7af4384-ad6b-4053-a964-a73e1dde6313" />
+
 ## Download Link
 The Windows version of PlantMDCS 1.0 has been officially released and can be downloaded from the link below:
 - Main Program: [PlantMDCS.exe](https://github.com/Chen-Yuan-888/PlantMDCS/releases/tag/PlantMDCS)
